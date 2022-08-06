@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quais-estados-brasil/static/css/main.6a5189a1.css",
+    "main.js": "/quais-estados-brasil/static/js/main.f84dd88f.js",
+    "index.html": "/quais-estados-brasil/index.html",
+    "main.6a5189a1.css.map": "/quais-estados-brasil/static/css/main.6a5189a1.css.map",
+    "main.f84dd88f.js.map": "/quais-estados-brasil/static/js/main.f84dd88f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5189a1.css",
+    "static/js/main.f84dd88f.js"
+  ]
+}
